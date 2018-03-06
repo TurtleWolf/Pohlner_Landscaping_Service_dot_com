@@ -1,5 +1,5 @@
-# Pohlner Lanscaping Service dot com
-# Chapter 10 [ ![Codeship Status for TurtleWolf/Pohlner_Landscaping_Service_dot_com](https://app.codeship.com/projects/45968a10-0340-0136-1296-723ff8205244/status?branch=master)](https://app.codeship.com/projects/280220)
+# Pohlner Lanscaping Service
+# Chapter 10 [ ![Codeship Status for TurtleWolf/Pohlner_Landscaping_Service_dot_com](https://app.codeship.com/projects/dc5b6320-0343-0136-1296-723ff8205244/status?branch=master)](https://app.codeship.com/projects/280222)
 In this chapter we will explore the continuous delivery development process with Node.js applications.
 In all previous chapters we did an overview of how to develop various types of application, using different features of Node.js and the Express and Loopback frameworks, including using different databases as MongoDB and MySql.
 
